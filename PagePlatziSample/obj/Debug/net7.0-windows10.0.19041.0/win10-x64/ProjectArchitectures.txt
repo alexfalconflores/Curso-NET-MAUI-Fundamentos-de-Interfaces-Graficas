@@ -1,0 +1,1 @@
+C:\Users\yo-al\OneDrive\Escritorio\Course\Curso de .NET MAUI Fundamentos de Interfaces Gráficas\PagePlatziSample\PagePlatziSample.csproj;x64
